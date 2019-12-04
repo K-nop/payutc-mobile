@@ -33,7 +33,7 @@
 			"back_button_title": "Montant",
 			"amount": "Montant du rechargement :",
 			"pay": "Accéder au paiement...",
-			"bad_amount": "Le montant doit être compris %{min} entre %{max}.",
+			"bad_amount": "Le montant doit être compris entre %{min} et %{max}.",
 			"amount_error": "Le montant est invalide.",
 			"refill_checks": "Vérfication avant rechargement...",
 			"redirect_to_refill": "Redirection vers la page de paiement..."
@@ -53,7 +53,7 @@
 			"message": "Message : ",
 			"message_placeholder": "Un (gentil) message",
 			"transfer_button": "Transférer...",
-			"bad_amount": "Le montant doit être compris %{min} entre %{max}.",
+			"bad_amount": "Le montant doit être compris entre %{min} et %{max}.",
 			"recipient_not_found": "Aucun destinataire trouvé.",
 			"amount_error": "Le montant est invalide.",
 			"transfer_checks": "Vérfication avant transfert...",
